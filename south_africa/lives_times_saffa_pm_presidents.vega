@@ -1,0 +1,407 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "background": "white",
+  "padding": 5,
+  "width": 750,
+  "height": 240,
+  "style": "cell",
+  "data": [
+    {
+      "name": "data-9daf791ba3940435b9aa92d5da3f7b73",
+      "values": [
+        {
+          "name": "Louis Botha",
+          "birth": "1862-09-27T00:00:00",
+          "death": "1919-08-27T00:00:00",
+          "term_start": "1910-05-31T00:00:00",
+          "term_end": "1919-08-27T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "South African Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Jan Christiaan Smuts",
+          "birth": "1870-05-24T00:00:00",
+          "death": "1950-09-11T00:00:00",
+          "term_start": "1919-09-03T00:00:00",
+          "term_end": "1924-06-30T00:00:00",
+          "term_start2": "1939-09-05T00:00:00",
+          "term_end2": "1948-06-04T00:00:00",
+          "party": "South African Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "James Barry Munnik Hertzog",
+          "birth": "1866-04-06T00:00:00",
+          "death": "1942-11-21T00:00:00",
+          "term_start": "1924-06-30T00:00:00",
+          "term_end": "1939-09-05T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "National Party-United Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Daniel François Malan",
+          "birth": "1874-05-22T00:00:00",
+          "death": "1959-02-07T00:00:00",
+          "term_start": "1948-06-04T00:00:00",
+          "term_end": "1954-11-30T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "National Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Johannes Gerhardus Strijdom",
+          "birth": "1893-07-14T00:00:00",
+          "death": "1958-08-24T00:00:00",
+          "term_start": "1954-11-30T00:00:00",
+          "term_end": "1958-08-24T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "National Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Hendrik Frensch Verwoerd",
+          "birth": "1901-09-08T00:00:00",
+          "death": "1966-09-06T00:00:00",
+          "term_start": "1958-09-02T00:00:00",
+          "term_end": "1966-09-06T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "National Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Balthazar Johannes Vorster",
+          "birth": "1915-12-13T00:00:00",
+          "death": "1983-09-10T00:00:00",
+          "term_start": "1966-09-13T00:00:00",
+          "term_end": "1978-10-02T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "National Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Pieter Willem Botha",
+          "birth": "1916-01-12T00:00:00",
+          "death": "2006-10-31T00:00:00",
+          "term_start": "1978-10-09T00:00:00",
+          "term_end": "1984-09-14T00:00:00",
+          "term_start2": "1984-09-03T00:00:00",
+          "term_end2": "1989-01-19T00:00:00",
+          "party": "National Party",
+          "position": "Prime Minister",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Jan Christiaan Heunis",
+          "birth": "1927-04-20T00:00:00",
+          "death": "2006-01-27T00:00:00",
+          "term_start": "1989-01-19T00:00:00",
+          "term_end": "1989-03-15T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "National Party",
+          "position": "President",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Frederik Willem de Klerk",
+          "birth": "1936-03-18T00:00:00",
+          "death": "2020-07-07T06:47:50.217158",
+          "term_start": "1989-03-15T00:00:00",
+          "term_end": "1994-05-10T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "National Party",
+          "position": "President",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Nelson Rolihlahla Mandela",
+          "birth": "1918-07-18T00:00:00",
+          "death": "2013-12-05T00:00:00",
+          "term_start": "1994-05-10T00:00:00",
+          "term_end": "1999-06-16T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "African National Congress",
+          "position": "President",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Thabo Mvuyelwa Mbeki",
+          "birth": "1942-06-18T00:00:00",
+          "death": "2020-07-07T06:47:50.217158",
+          "term_start": "1999-06-16T00:00:00",
+          "term_end": "2008-09-24T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "African National Congress",
+          "position": "President",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Kgalema Petrus Motlanthe",
+          "birth": "1949-07-19T00:00:00",
+          "death": "2020-07-07T06:47:50.217158",
+          "term_start": "2008-09-25T00:00:00",
+          "term_end": "2009-05-09T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "African National Congress",
+          "position": "President",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Jacob Gedleyihlekisa Zuma",
+          "birth": "1942-04-12T00:00:00",
+          "death": "2020-07-07T06:47:50.217158",
+          "term_start": "2009-05-09T00:00:00",
+          "term_end": "2018-02-14T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "African National Congress",
+          "position": "President",
+          "life": "Life",
+          "term": "Term"
+        },
+        {
+          "name": "Matamela Cyril Ramaphosa",
+          "birth": "1952-11-17T00:00:00",
+          "death": "2020-07-07T06:47:50.217158",
+          "term_start": "2018-02-14T00:00:00",
+          "term_end": "2020-07-07T00:00:00",
+          "term_start2": "",
+          "term_end2": "",
+          "party": "African National Congress",
+          "position": "President",
+          "life": "Life",
+          "term": "Term"
+        }
+      ]
+    },
+    {
+      "name": "data_0",
+      "source": "data-9daf791ba3940435b9aa92d5da3f7b73",
+      "transform": [
+        {"type": "formula", "expr": "toDate(datum[\"birth\"])", "as": "birth"},
+        {"type": "formula", "expr": "toDate(datum[\"death\"])", "as": "death"},
+        {
+          "type": "formula",
+          "expr": "toDate(datum[\"term_start\"])",
+          "as": "term_start"
+        },
+        {
+          "type": "formula",
+          "expr": "toDate(datum[\"term_end\"])",
+          "as": "term_end"
+        },
+        {
+          "type": "formula",
+          "expr": "toDate(datum[\"term_start2\"])",
+          "as": "term_start2"
+        },
+        {
+          "type": "formula",
+          "expr": "toDate(datum[\"term_end2\"])",
+          "as": "term_end2"
+        }
+      ]
+    },
+    {
+      "name": "data_1",
+      "source": "data_0",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "(isDate(datum[\"birth\"]) || (isValid(datum[\"birth\"]) && isFinite(+datum[\"birth\"])))"
+        }
+      ]
+    },
+    {
+      "name": "data_2",
+      "source": "data_0",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "(isDate(datum[\"term_start\"]) || (isValid(datum[\"term_start\"]) && isFinite(+datum[\"term_start\"])))"
+        }
+      ]
+    },
+    {
+      "name": "data_3",
+      "source": "data_0",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "(isDate(datum[\"term_start2\"]) || (isValid(datum[\"term_start2\"]) && isFinite(+datum[\"term_start2\"])))"
+        }
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "name": "layer_0_marks",
+      "type": "rect",
+      "style": ["rect"],
+      "from": {"data": "data_1"},
+      "encode": {
+        "update": {
+          "fill": {"value": "black"},
+          "height": {"value": 2},
+          "tooltip": {
+            "signal": "{\"Name\": ''+datum[\"name\"], \"Birth\": timeFormat(datum[\"birth\"], '%b %d, %Y'), \"Death\": timeFormat(datum[\"death\"], '%b %d, %Y')}"
+          },
+          "x": {"scale": "x", "field": "birth"},
+          "x2": {"scale": "x", "field": "death"},
+          "yc": {"scale": "y", "field": "term_start", "band": 0.5}
+        }
+      }
+    },
+    {
+      "name": "layer_1_marks",
+      "type": "rect",
+      "style": ["rect"],
+      "from": {"data": "data_2"},
+      "encode": {
+        "update": {
+          "fill": {"value": "red"},
+          "stroke": {"value": "black"},
+          "strokeWidth": {"value": 0.3},
+          "height": {"value": 4},
+          "tooltip": {
+            "signal": "{\"Name\": ''+datum[\"name\"], \"Term Start\": timeFormat(datum[\"term_start\"], '%b %d, %Y'), \"Term End\": timeFormat(datum[\"term_end\"], '%b %d, %Y')}"
+          },
+          "x": {"scale": "x", "field": "term_start"},
+          "x2": {"scale": "x", "field": "term_end"},
+          "yc": {"scale": "y", "field": "term_start", "band": 0.5}
+        }
+      }
+    },
+    {
+      "name": "layer_2_marks",
+      "type": "rect",
+      "style": ["rect"],
+      "from": {"data": "data_3"},
+      "encode": {
+        "update": {
+          "fill": {"value": "red"},
+          "stroke": {"value": "black"},
+          "strokeWidth": {"value": 0.3},
+          "height": {"value": 4},
+          "tooltip": {
+            "signal": "{\"Name\": ''+datum[\"name\"], \"Term Start\": timeFormat(datum[\"term_start2\"], '%b %d, %Y'), \"Term End\": timeFormat(datum[\"term_end2\"], '%b %d, %Y')}"
+          },
+          "x": {"scale": "x", "field": "term_start2"},
+          "x2": {"scale": "x", "field": "term_end2"},
+          "yc": {"scale": "y", "field": "term_start", "band": 0.5}
+        }
+      }
+    },
+    {
+      "name": "layer_3_marks",
+      "type": "text",
+      "style": ["text"],
+      "from": {"data": "data_1"},
+      "encode": {
+        "update": {
+          "align": {"value": "left"},
+          "baseline": {"value": "line-bottom"},
+          "dx": {"value": 0},
+          "fill": {"value": "black"},
+          "tooltip": {
+            "signal": "{\"Name\": ''+datum[\"name\"], \"Birth\": timeFormat(datum[\"birth\"], '%b %d, %Y'), \"Death\": timeFormat(datum[\"death\"], '%b %d, %Y')}"
+          },
+          "x": {"scale": "x", "field": "birth"},
+          "y": {"scale": "y", "field": "term_start", "band": 0.5},
+          "text": {"signal": "''+datum[\"name\"]"},
+          "fontSize": {"value": 10}
+        }
+      }
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "time",
+      "domain": {
+        "fields": [
+          {"data": "data_1", "field": "birth"},
+          {"data": "data_1", "field": "death"},
+          {"data": "data_2", "field": "term_start"},
+          {"data": "data_2", "field": "term_end"},
+          {"data": "data_3", "field": "term_start2"},
+          {"data": "data_3", "field": "term_end2"}
+        ]
+      },
+      "range": [0, {"signal": "width"}]
+    },
+    {
+      "name": "y",
+      "type": "band",
+      "domain": {
+        "fields": [
+          {"data": "data_1", "field": "term_start"},
+          {"data": "data_2", "field": "term_start"},
+          {"data": "data_3", "field": "term_start"}
+        ],
+        "sort": true
+      },
+      "range": [0, {"signal": "height"}],
+      "paddingInner": 0,
+      "paddingOuter": 0
+    }
+  ],
+
+  "title": {
+    "text": "The Lives and Administrations of South African Prime Ministers and Presidents",
+    "subtitle": "Source: Wikipedia",
+    "subtitleFontStyle": "italic",
+    "subtitlePadding": 5,
+    "frame": "bounds",
+    "anchor": "start",
+    "offset": 12,
+    "zindex": 0
+  }
+  
+  
+  ,
+  "axes": [
+    {
+      "scale": "x",
+      "orient": "bottom",
+      "grid": false,
+      "labelFlush": true,
+      "labelOverlap": true,
+      "tickCount": {"signal": "ceil(width/40)"},
+      "zindex": 0
+    }
+  ],
+  "config": {"style": {"cell": {"strokeOpacity": 0}}}
+}
