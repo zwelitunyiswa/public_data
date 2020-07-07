@@ -381,7 +381,7 @@
 
   "title": {
     "text": "The Lives and Administrations of South African Prime Ministers and Presidents",
-    "subtitle": "Source: Wikipedia",
+    "subtitle": "Data Source: Wikipedia",
     "subtitleFontStyle": "italic",
     "subtitlePadding": 5,
     "frame": "bounds",
